@@ -23,3 +23,6 @@ Este projeto consiste na criação de um **web scraper** que coleta informaçõe
 - **Requests** para realizar as requisições HTTP
 - **Git** para controle de versão
 - **GitHub** como plataforma de hospedagem de código
+- 
+![ReadMe para projeto de crawler-2024-09-19-22-59-29](https://github.com/user-attachments/assets/972e3392-4da2-4c82-958b-3c9059aa499e)
+![ReadMe para projeto de crawler-2024-09-19-22-59-26](https://github.com/user-attachments/assets/3a13fced-e3fb-47e0-a58b-3a4e275e452d)
